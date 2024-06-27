@@ -23,7 +23,7 @@ function q(c,a,g){var b,d={},e=null,h=null;void 0!==g&&(e=""+g);void 0!==a.key&&
 var jsxRuntimeExports = jsxRuntime.exports;
 
 function App() {
-  return /* @__PURE__ */ jsxRuntimeExports.jsx(jsxRuntimeExports.Fragment, { children: /* @__PURE__ */ jsxRuntimeExports.jsx("h2", { children: "Product - Page" }) });
+  return /* @__PURE__ */ jsxRuntimeExports.jsx(jsxRuntimeExports.Fragment, { children: /* @__PURE__ */ jsxRuntimeExports.jsx("h2", { children: "Product - Page 2" }) });
 }
 
 export { App as default, jsxRuntimeExports as j };
