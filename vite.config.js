@@ -4,7 +4,8 @@ import federation from "@originjs/vite-plugin-federation";
 
 // https://vitejs.dev/config/
 export default defineConfig({
-plugins: [
+  base: "/productPage",
+  plugins: [
     react(),
     federation({
       name: "productApp",
