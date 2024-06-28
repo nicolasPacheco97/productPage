@@ -3,7 +3,7 @@ function App() {
 
   return (
     <>
-      <h2>Product - Page</h2>
+      <h2>Product - Page 2</h2>
     </>
   )
 }
